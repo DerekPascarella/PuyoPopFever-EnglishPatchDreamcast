@@ -38,7 +38,7 @@ This English translation patch has not modified or adds (almost) no new English-
 </ul>
 
 <h2>What's Changed</h2>
-<img align="right" width="149" height="112" src="https://github.com/DerekPascarella/PuyoPuyoFever-EnglishPatchDreamcast/blob/main/in_game_small.png?raw=true">Below is a high-level list of changes implemented for this English translation patch.
+<img align="right" width="267" height="200" src="https://github.com/DerekPascarella/PuyoPuyoFever-EnglishPatchDreamcast/blob/main/in_game_small.png?raw=true">Below is a high-level list of changes implemented for this English translation patch.
 <br><br>
 <ul>
  <li>All information and status messages appear in English.</li>
