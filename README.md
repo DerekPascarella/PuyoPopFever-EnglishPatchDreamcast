@@ -57,4 +57,6 @@ If booting this patched game while using a VMU containing an old save from the o
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nC6fn-emt3s" target="_blank">
  <img src="http://img.youtube.com/vi/nC6fn-emt3s/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
+<br><br>
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
 
