@@ -50,7 +50,7 @@ This English translation patch has not modified or adds (almost) no new English-
 </ul>
 
 <h2>Important Notes</h2>
-This patch leaves the language selection feature functional, rather than forcing English throughout the game.  Doing so permits players to change between additional supported languages if they so choose.  However, this can also prevent English text and audio from being used under a certain condition.
+This patch leaves the language selection feature functional, rather than forcing English throughout the game.  Doing so permits players to change between languages if they so choose.  However, this can also prevent English text and audio from being used under a certain condition.
 <br><br>
 If booting this patched game while using a VMU containing an old save from the original Japanese retail version, the language setting present at the time of writing said save file (i.e., Japanese) will be restored.  To manually switch the game to English mode, follow the instructions shown in the video below.  Aftewards, be sure to "Save/Load" from the menu in order to retain language settings.
 <br><br>
