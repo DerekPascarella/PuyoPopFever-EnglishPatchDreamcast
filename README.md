@@ -54,9 +54,4 @@ This patch leaves the language selection feature functional, rather than forcing
 <br><br>
 If booting this patched game while using a VMU containing an old save from the original Japanese retail version, the language setting present at the time of writing said save file (i.e., Japanese) will be restored.  To manually switch the game to English mode, follow the instructions shown in the video below.  Aftewards, be sure to "Save/Load" from the menu in order to retain language settings.
 <br><br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nC6fn-emt3s" target="_blank">
- <img src="http://img.youtube.com/vi/nC6fn-emt3s/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
-<br><br>
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nC6fn-emt3s" target="_blank"><img src="http://img.youtube.com/vi/nC6fn-emt3s/mqdefault.jpg" alt="Watch the video" width="320" height="180" border="10" /></a>
