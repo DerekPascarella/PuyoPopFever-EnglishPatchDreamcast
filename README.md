@@ -4,7 +4,7 @@
  <li><b>GDI Format (Users of ODEs or Emulators)</b><br>Download <a href="https://github.com/DerekPascarella/PuyoPuyoFever-EnglishPatchDreamcast/releases/download/1.0/Puyo.Puyo.Fever.English.v1.0.dcp">Puyo Puyo Fever (English v1.0).dcp</a> for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.</li>
  <li><b>CDI Format (Users Burning to CD-R)</b><br>Download <a href="https://github.com/DerekPascarella/PuyoPuyoFever-EnglishPatchDreamcast/releases/download/1.0/Puyo.Puyo.Fever.English.v1.0.xdelta">Puyo Puyo Fever (English v1.0).xdelta</a> for use with <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a> (or equivalent tools).</li>
 </ul>
-This English translation patch does not modify or add (almost) any new English-language text or assets.  Instead, it sets the game language to English by default, rather than Japanese.  Additionally, VMU save file metadata has been translated from Japanese to English.
+This English translation patch does not modify nor add (almost) any new English-language text or assets.  Instead, it sets the game language to English by default, rather than Japanese.  Additionally, VMU save file metadata has been translated from Japanese to English.
 
 <h2>Table of Contents</h2>
 
