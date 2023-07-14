@@ -41,12 +41,12 @@ This English translation patch does not modify nor add (almost) any new English-
 <img align="right" width="267" height="200" src="https://github.com/DerekPascarella/PuyoPuyoFever-EnglishPatchDreamcast/blob/main/in_game_small.png?raw=true">Below is a high-level list of changes implemented for this English translation patch.
 <br><br>
 <ul>
- <li>All information and status messages appear in English.</li>
- <li>All in-game dialogue text appears in English.</li>
- <li>All menu text appears in English.</li>
- <li>All logos and textures appear in English.</li>
+ <li>All information and status messages appear in English by default.</li>
+ <li>All in-game dialogue text appears in English by default.</li>
+ <li>All menu text appears in English by default.</li>
+ <li>All logos and textures appear in English by default.</li>
  <li>VMU save file metadata appears in English.</li>
- <li>All voice-acted audio is in English.</li>
+ <li>All voice-acted audio is in English by default.</li>
 </ul>
 
 <h2>Important Notes</h2>
