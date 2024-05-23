@@ -33,7 +33,7 @@ This English translation patch does not modify nor add (almost) any new English-
 
 <h2>Release Changelog</h2>
 <ul>
- <li>Version 1.0 (2023-06-10)</li>
+ <li><b>Version 1.0 (2023-06-10)</b></li>
  <ul>
   <li>Initial release.</li>
  </ul>
